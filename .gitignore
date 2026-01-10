@@ -1,0 +1,6 @@
+*.RDataTmp
+*.Rhistory
+*.csv
+*.xlsx
+*.zip
+*.png
