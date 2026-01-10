@@ -16,11 +16,11 @@ Highlight consistent vs inconsistent usage of features.
 
 Provide actionable recommendations to Bellabeat’s marketing and product teams.
 
-Business Task
+### Business Task
 
 Bellabeat is a wellness-focused tech company that produces smart devices for health tracking.
 
-Key Questions Explored:
+### Key Questions Explored:
 
 How do consumers use smart devices?
 
@@ -28,23 +28,23 @@ Are there patterns by weekday vs weekend?
 
 Which features are used most consistently?
 
-Stakeholders:
+### Stakeholders:
 
 Bellabeat Marketing Team
 
 Bellabeat Leadership Team
 
-Data Sources
+### Data Sources
 
 The dataset is publicly available on Kaggle and includes Fitbit fitness tracker data.
 
-Files used:
+### Files used:
 
 dailyActivity_merged.csv
 
 sleepDay_merged.csv
 
-Limitations:
+### Limitations:
 
 Small sample size
 
@@ -82,13 +82,13 @@ Sleep analysis: Average sleep duration, distribution, and correlation with activ
 
 Merged sleep and activity datasets to explore relationships between activity and rest.
 
-Tools Used:
+### Tools Used:
 
 R: tidyverse, lubridate, janitor, ggplot2
 
 Tableau: Interactive dashboards for visual analysis
 
-Example Visualizations:
+### Example Visualizations:
 
 Average Steps by Weekday
 
@@ -96,7 +96,7 @@ Sleep Duration Distribution
 
 Sleep vs Total Active Minutes
 
-Key Insights
+### Key Insights
 
 Users are slightly more active on weekdays than weekends.
 
@@ -106,7 +106,7 @@ Average sleep duration is ~7 hours on weekdays.
 
 Active users tend to have slightly longer sleep durations.
 
-Recommendations for Bellabeat
+### Recommendations for Bellabeat
 
 Push notifications: Morning and evening on weekdays; weekend-specific nudges.
 
