@@ -6,8 +6,7 @@ Dataset: Fitbit Fitness Tracker Data (Kaggle)
 ### Project Overview
 This case study follows the analytics process of Ask, Prepare, Process, Analyze, and Share to explore how consumers use smart devices and how Bellabeat can improve its marketing strategy.
 
-The primary goals of this project are:
-
+## The primary goals of this project are:
 Understand user behavior with fitness tracking features.
 Identify patterns in activity and sleep across weekdays and weekends.
 Highlight consistent vs inconsistent usage of features.
@@ -20,15 +19,12 @@ Bellabeat is a wellness-focused tech company that produces smart devices for hea
 ### Key Questions Explored:
 
 How do consumers use smart devices?
-
 Are there patterns by weekday vs weekend?
-
 Which features are used most consistently?
 
 ### Stakeholders:
 
 Bellabeat Marketing Team
-
 Bellabeat Leadership Team
 
 ### Data Sources
@@ -38,45 +34,32 @@ The dataset is publicly available on Kaggle and includes Fitbit fitness tracker 
 ### Files used:
 
 dailyActivity_merged.csv
-
 sleepDay_merged.csv
 
 ### Limitations:
 
 Small sample size
-
 Self-reported data
-
 Short observation period
-
 Data Preparation & Cleaning
-
 Merged multiple CSV files into a single dataset.
-
 Standardized column names using janitor::clean_names().
-
 Fixed date formats with lubridate.
 
-Created new columns:
+## Created new columns:
 
 day_type (Weekday/Weekend)
-
 total_active_minutes
-
 consistency_level (High/Medium/Low)
-
 Deduplicated multiple entries per user per day.
 
-Analysis & Visualizations
+## Analysis & Visualizations
 
 The analysis includes:
 
 Average steps and active minutes: Weekday vs Weekend, by day of week.
-
 User consistency: High, Medium, Low based on activity logging.
-
 Sleep analysis: Average sleep duration, distribution, and correlation with activity.
-
 Merged sleep and activity datasets to explore relationships between activity and rest.
 
 ### Tools Used:
