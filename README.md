@@ -76,10 +76,10 @@ Tableau: Interactive dashboards for visual analysis
 
 ### Key Insights
 
-  Users are slightly more active on weekdays than weekends.
-  Step tracking is used more consistently than sleep tracking.
-  Average sleep duration is ~7 hours on weekdays.
-  Active users tend to have slightly longer sleep durations.
+- Users are slightly more active on weekdays than weekends.
+- Step tracking is used more consistently than sleep tracking.
+- Average sleep duration is ~7 hours on weekdays.
+- Active users tend to have slightly longer sleep durations.
 
 ### Recommendations for Bellabeat
 
