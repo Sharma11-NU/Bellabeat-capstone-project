@@ -9,11 +9,8 @@ This case study follows the analytics process of Ask, Prepare, Process, Analyze,
 The primary goals of this project are:
 
 Understand user behavior with fitness tracking features.
-
 Identify patterns in activity and sleep across weekdays and weekends.
-
 Highlight consistent vs inconsistent usage of features.
-
 Provide actionable recommendations to Bellabeat’s marketing and product teams.
 
 ### Business Task
